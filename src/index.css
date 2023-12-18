@@ -82,7 +82,7 @@ h4,
 h5 {
   margin: 0;
   font-family: var(--headingFont);
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1;
   text-transform: capitalize;
   letter-spacing: var(--letterSpacing);
@@ -301,7 +301,7 @@ body {
 }
 .hero-title h1 {
   margin-bottom: 2rem;
-  font-weight: 700;
+  font-weight: 400;
 }
 .hero-title p {
   line-height: 2;

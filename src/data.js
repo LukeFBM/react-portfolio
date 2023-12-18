@@ -1,9 +1,9 @@
 const data = [
   {
     id: 1,
-    title: "E-commerce",
-    url: "https://my-store-luke.netlify.app/",
-    img: "https://react-projects.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2F17-store.2c8a673c.png&w=1920&q=75",
+    title: "Driving License App",
+    url: "https://merry-palmier-45e1da.netlify.app/",
+    img: "https://play-lh.googleusercontent.com/zkgLjmaJ0y_st4-t-eV3VTaA4lF2hyvChNR-tRgfJyVCuRKYrAtRVF7OfnkCxk47rg",
   },
   {
     id: 2,
