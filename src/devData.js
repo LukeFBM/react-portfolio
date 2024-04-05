@@ -1,5 +1,6 @@
 import logoHome from "./assets/logo-home.svg";
 import logoSartoria from "./assets/logo-sartoria.svg";
+import flux from "./assets/flux-figma.png";
 
 const devdata = [
   {
@@ -13,6 +14,12 @@ const devdata = [
     title: "Sartoria Gemello",
     url: "https://www.sartoriagemello.it/",
     img: logoSartoria,
+  },
+  {
+    id: 3,
+    title: "WebDev + Designer Project",
+    url: "https://flux-figma-lukefbm.netlify.app/",
+    img: flux,
   },
 ];
 

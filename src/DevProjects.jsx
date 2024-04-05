@@ -1,13 +1,12 @@
 import { useState } from "react";
 import devData from "./devData";
-import pic from "./assets/birthday.png";
 
 const DevProjects = () => {
   const [projects, setProjects] = useState(devData);
   return (
     <section className="projects">
       <div className="title">
-        <h2>Projects as Freelance developer</h2>
+        <h2>Projects as a Freelance developer</h2>
         <div className="title-underline"></div>
       </div>
       <div className="projects-center">
